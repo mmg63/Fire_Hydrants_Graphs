@@ -1,8 +1,11 @@
 geopandas
 pandas
+json
+plotly
+folium
+folium
+networkx
 numpy
-matplotlib
-fiona
 shapely
 pyproj
-rtree
+scipy
