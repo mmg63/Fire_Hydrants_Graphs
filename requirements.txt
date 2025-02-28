@@ -1,6 +1,5 @@
 geopandas
 pandas
-json
 plotly
 folium
 folium
