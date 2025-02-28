@@ -8,4 +8,6 @@ numpy
 shapely
 pyproj
 scipy
-scikitlearn
+scikit-learn
+
+
