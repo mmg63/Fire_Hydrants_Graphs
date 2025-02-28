@@ -9,5 +9,6 @@ shapely
 pyproj
 scipy
 scikit-learn
+streamlit-folium
 
 
